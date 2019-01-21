@@ -18,6 +18,8 @@
 
 ![二进制](/Images/binary.png)
 
+**二进制转十进制：**
+
 ![二进制转十进制](/Images/binary2decimal.png)
 
 > * 在计算机中我们把在一个数值后面添加`b`为二进制数(Binary number)
