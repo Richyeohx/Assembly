@@ -1,0 +1,7 @@
+mov ax,0001
+mov dx,ax
+mov al,ah
+mov [0x1],al
+mov al,[0x3]
+mov [0x4],ah
+mov word [0x02],0xf000
